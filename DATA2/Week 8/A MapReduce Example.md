@@ -1,0 +1,1 @@
+![[MapReduce example.png|800]]
