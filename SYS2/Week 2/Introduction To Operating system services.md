@@ -27,3 +27,5 @@ There are also 4 different types of #OS architecture:
 2) #Layered
 3) #Micro-Kernel
 4) #Hybrid 
+
+
