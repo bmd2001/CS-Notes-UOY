@@ -35,6 +35,8 @@ ENG1:
 
 HCI2:
 
+2) 
+	- [ ] [[HCI2 Intro]]
 9) 
 	- [ ] [[Values and Etchis in Design 1]]
 
@@ -72,11 +74,11 @@ SYS2:
 
 2) 
 	- [ ] [[Introduction To Operating system services]]
-1) 
+7) 
 	- [ ] [[Deadlocks]]
-2) 
+8) 
 	- [ ] [[Memory Management]]
-3) 
+9) 
 	- [ ] [[I-O, Storage and File Management]]
 
 [[SYS2 Practical List]]
