@@ -37,6 +37,10 @@ HCI2:
 
 2) 
 	- [ ] [[HCI2 Intro]]
+3) 
+	- [ ] [[Cognitive Modelling and User Capabilities]]
+	- [ ] [[Memory]]
+	- [ ] [[Attention]]
 9) 
 	- [ ] [[Values and Etchis in Design 1]]
 

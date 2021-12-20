@@ -20,7 +20,7 @@ In the 1980-1990's the first [[Introduction To Operating system services|OSs]] a
 
 This concept comes from a Susanne Bødker paper and they are:
 
-1) [[#First Wave]]: Cognitive Psychology and Human Factors
+1) [[#First Wave]]: Cognitive Psychology and Human Factors ^f152f7
 2) [[#Second Wave]]: Actors, Systems and Goals
 3) [[#Third Wave]]: Experience and Meaning-Making
 
@@ -32,7 +32,7 @@ In the First #Wave, the focus is on the interaction between the computer and the
 
 *Example* :
 
-![[HCI In First Wave.png|500]]
+![[HCI In First Wave.png|500]] ^96c32f
 
 <br>
 

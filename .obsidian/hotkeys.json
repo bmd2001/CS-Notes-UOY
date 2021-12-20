@@ -8,13 +8,21 @@
       "key": "C"
     }
   ],
-  "obsidian-git:push2": [],
   "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "\\"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }
