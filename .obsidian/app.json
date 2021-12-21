@@ -1,4 +1,13 @@
 {
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTimeReverse"
+  "fileSortOrder": "byModifiedTimeReverse",
+  "spellcheckDictionary": [
+    "color",
+    "color",
+    "color",
+    "color",
+    "colors",
+    "colors",
+    "CSCW"
+  ]
 }

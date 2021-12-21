@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
+            "file": "HCI2/Week 4/CSCW.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
+                "file": "HCI2/Week 4/CSCW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
-    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
-    "HCI2/Images/GOMS.png",
+    "HCI2/Week 4/CSCW.md",
     "HCI2/Week 2/HCI2 Intro.md",
-    "HCI2/Week 3/Attention.md",
     "Uni Work Checklist.md",
     "HCI2/Week 3/Memory.md",
-    "SYS2/Week 2/Introduction To Operating system services.md",
+    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
     "DATA2/Week 7/Supervised Learning and Logistic Regression.md",
-    "DATA2/Week 9/Non Parametric Test.md",
-    "INT1/Practicals/Week 9/Week 9 Lab Sheet First-Order Predicate Logic.md"
+    "HCI2/Week 3/Attention.md",
+    "HCI2/Images/Periphery.png",
+    "HCI2/Images/GOMS.png",
+    "SYS2/Week 2/Introduction To Operating system services.md"
   ]
 }

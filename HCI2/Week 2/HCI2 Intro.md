@@ -5,7 +5,7 @@ The ideas of #Web and Personal Computers ( #PC ) were already formulated by Vann
 
 The first graphic system ( #Sketchpad ) was created by [Ivan Sutherland](https://en.wikipedia.org/wiki/Sketchpad) in 1963.
 
-The #mouse was created in the same year too and it was preffered to the pen used in the #Sketchpad.
+The #mouse was created in the same year too and it was preffered to the pen used in the #Sketchpad. ^a14e36
 
 In the 70's the first #PCs come to life, but in 1981 the [Xerox Star](https://en.wikipedia.org/wiki/Xerox_Star) was the first bussiness focued #PC, and it also had a #GUI.
 
