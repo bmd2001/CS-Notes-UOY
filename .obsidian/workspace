@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HCI2/Week 3/Attention.md",
+            "file": "HCI2/Week 3/Memory.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCI2/Week 3/Attention.md",
+                "file": "HCI2/Week 3/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
+    "HCI2/Week 3/Memory.md",
     "HCI2/Week 3/Attention.md",
     "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
-    "HCI2/Week 3/Memory.md",
     "HCI2/Week 4/CSCW.md",
     "SYS2/Week 4/Processes Scheduling and IPC.md",
     "SYS2/Week 3/Processes and Threads.md",
