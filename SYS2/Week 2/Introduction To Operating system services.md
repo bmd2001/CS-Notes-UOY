@@ -28,4 +28,29 @@ There are also 4 different types of #OS architecture:
 3) #Micro-Kernel
 4) #Hybrid 
 
+## Monolithic
 
+#UNIX #OS uses the #Monolithic approach: that means dividing the #OS into two blocks: 
+
+1) System Programs
+2) kernel
+
+![[Monolithic.png|400]]
+
+## Layered
+
+The #Layered approach instead divides the #OS into multiple layers, each of them having gradually more access to the #hardware. Its structure is usually shown in a circle subdivided in different circular section.
+
+*Example*:
+
+![[Layered.png|400]]
+
+## Micro kernel
+
+Here, the #kernel is used as little as possible, so the components get to moved to user interface.
+
+![[Micro Kernel.png|500]]
+
+## Hybrid
+
+The #hybrid approach is actually to use the positive aspects of all approaches into one. In fact, usually, #OSs are not a pure model.

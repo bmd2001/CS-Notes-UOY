@@ -80,6 +80,10 @@ SYS2:
 
 2) 
 	- [ ] [[Introduction To Operating system services]]
+3) 
+	- [ ] [[Processes and Threads]] 
+4) 
+	- [ ] [[Processes Scheduling and IPC]]
 7) 
 	- [ ] [[Deadlocks]]
 8) 

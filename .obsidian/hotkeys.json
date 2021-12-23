@@ -1,13 +1,4 @@
 {
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -25,7 +16,8 @@
       "key": "P"
     }
   ],
-  "obsidian-git:commit-push-specified-message": [
+  "obsidian-git:commit-push-specified-message": [],
+  "obsidian-git:commit-specified-message": [
     {
       "modifiers": [
         "Mod",
