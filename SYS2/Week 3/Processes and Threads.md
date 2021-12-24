@@ -59,7 +59,7 @@ Threads can be at the #user level or at the #kernel level.
 
 ![[Process Execution Flow.png|500]]
 
-![[Schermata 2021-12-23 alle 17.56.25.png|500]]
+![[User and Kernel Threads.png|500]]
 <br>
 
 ## Single and Multi-threaded processes

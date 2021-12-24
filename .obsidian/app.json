@@ -9,6 +9,8 @@
     "colors",
     "colors",
     "CSCW",
-    "Pthreads"
+    "Pthreads",
+    "FCFS",
+    "SJF"
   ]
 }
