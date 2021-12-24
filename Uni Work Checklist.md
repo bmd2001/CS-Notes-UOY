@@ -84,6 +84,9 @@ SYS2:
 	- [ ] [[Processes and Threads]] 
 4) 
 	- [ ] [[Processes Scheduling and IPC]]
+5) Nothing
+6) 
+	- [ ] [[Synchronization]]
 7) 
 	- [ ] [[Deadlocks]]
 8) 
