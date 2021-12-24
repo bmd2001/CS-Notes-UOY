@@ -83,4 +83,12 @@ There are two models of #IPC:
 
 ### Shared Memory
 
+As the name says, in this model, different #processes share a part of their #memory in a fixed #memory #address. To do so, the #processes involved have to request this need to the #OS (since, by default, sharing #memory is not possible), so they can then handle the communication between themselves. Usually, #processes that have this #IPC follow a #producer-consumer metaphor, where a #process produces information that is consumed by another #process.
+
+Since the information is share, there has to be some sort of [[Synchronization]] between all the #processes.
+
+<br>
+
 ### Message Passing
+
+This other model makes #processes communicate through #messages. The ability to do so is conveyed by the #OS, that takes control of every aspect of the #message exchange #system.
