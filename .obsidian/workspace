@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYS2/Week 4/Processes Scheduling and IPC.md",
+            "file": "SYS2/Week 6/Synchronization.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS2/Week 4/Processes Scheduling and IPC.md",
+                "file": "SYS2/Week 6/Synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
+    "SYS2/Week 6/Synchronization.md",
     "SYS2/Week 4/Processes Scheduling and IPC.md",
     "SYS2/Images/FCFS.gif",
     "SYS2/Images/SJF.gif",
@@ -96,7 +97,6 @@
     "SYS2/Week 3/Processes and Threads.md",
     "SYS2/Week 2/Introduction To Operating system services.md",
     "HCI2/Week 4/CSCW.md",
-    "HCI2/Week 3/Memory.md",
-    "HCI2/Week 3/Attention.md"
+    "HCI2/Week 3/Memory.md"
   ]
 }
