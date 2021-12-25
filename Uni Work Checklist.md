@@ -84,14 +84,15 @@ SYS2:
 	- [ ] [[Processes and Threads]] 
 4) 
 	- [ ] [[Processes Scheduling and IPC]]
-5) Nothing
-6) 
-	- [ ] [[Synchronization]]
+5) 
+6) Nothing
 7) 
-	- [ ] [[Deadlocks]]
+	- [ ] [[Synchronization]]
 8) 
-	- [ ] [[Memory Management]]
+	- [ ] [[Deadlocks]]
 9) 
+	- [ ] [[Memory Management]]
+10) 
 	- [ ] [[I-O, Storage and File Management]]
 
 [[SYS2 Practical List]]

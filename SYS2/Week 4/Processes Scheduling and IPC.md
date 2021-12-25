@@ -92,3 +92,10 @@ Since the information is share, there has to be some sort of [[Synchronization]]
 ### Message Passing
 
 This other model makes #processes communicate through #messages. The ability to do so is conveyed by the #OS, that takes control of every aspect of the #message exchange #system.
+
+To do so, the #Messaging functionality must enable at least these two key functions:
+
+1) send(message)
+2) receive(message)
+
+To be able to send and receive #messages, the 2 #processes have to be linked.
