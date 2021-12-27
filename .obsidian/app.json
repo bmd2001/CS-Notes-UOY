@@ -13,6 +13,7 @@
     "FCFS",
     "SJF",
     "receive(M",
-    "send(M"
+    "send(M",
+    "QualComm"
   ]
 }

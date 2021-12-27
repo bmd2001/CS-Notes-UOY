@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f031a48e01840f1d",
+        "id": "397018ab8680d639",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "HCI2/Week 6/In-the-wild Methods.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GOMS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HCI2/Week 6/In-the-wild Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +102,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f031a48e01840f1d",
+  "active": "397018ab8680d639",
   "lastOpenFiles": [
     "HCI2/Week 6/In-the-wild Methods.md",
     "HCI2/Week 6/In-the-wild Theory.md",
+    "HCI2/Week 5/Ubiquitous Computing.md",
     "Uni Work Checklist.md",
     "HCI2/Images/AT Example.png",
     "HCI2/Images/Simple AT.png",
     "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
-    "HCI2/Week 5/Ubiquitous Computing.md",
     "HCI2/Week 5/The pervasiveness of technology.md",
     "HCI2/Week 5/HelenSharpJenni_2019_Chapter7Interfaces_InteractionDesignBeyo.pdf",
     "HCI2/Week 4/CSCW.md"
