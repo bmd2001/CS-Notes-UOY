@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HCI2/Week 5/The pervasiveness of technology.md",
+            "file": "Uni Work Checklist.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GOMS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCI2/Week 5/The pervasiveness of technology.md",
+                "file": "Uni Work Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
-    "HCI2/Week 5/The pervasiveness of technology.md",
-    "HCI2/Week 5/Ubiquitous Computing.md",
-    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
     "Uni Work Checklist.md",
-    "HCI2/Week 4/CSCW.md",
-    "SYS2/Week 9/I-O, Storage and File Management.md",
-    "SYS2/Week 8/Memory Management.md",
-    "SYS2/Week 7/Deadlocks.md",
-    "SYS2/Week 6/Synchronization.md",
-    "SYS2/Week 4/Process Scheduling and IPC.md"
+    "HCI2/Week 6/In-the-wild Methods.md",
+    "HCI2/Week 6/In-the-wild Theory.md",
+    "HCI2/Images/AT Example.png",
+    "HCI2/Images/Simple AT.png",
+    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
+    "HCI2/Week 5/Ubiquitous Computing.md",
+    "HCI2/Week 5/The pervasiveness of technology.md",
+    "HCI2/Week 5/HelenSharpJenni_2019_Chapter7Interfaces_InteractionDesignBeyo.pdf",
+    "HCI2/Week 4/CSCW.md"
   ]
 }

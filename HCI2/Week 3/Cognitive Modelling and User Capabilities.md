@@ -14,7 +14,7 @@ The base of [[HCI2 Intro#^96c32f|cognitive models]] in the [[HCI2 Intro#First Wa
 
 *Example*:
 
-#GOMS (Goals, Operators (or actions), Methods and Selection)
+#GOMS (Goals, Operators (or actions), Methods and Selection) ^1d741f
 
 ![[GOMS.png|400]]
 

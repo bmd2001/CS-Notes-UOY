@@ -46,6 +46,11 @@ HCI2:
 5) 
 	- [ ] [[The pervasiveness of technology]]
 	- [ ] [[Ubiquitous Computing]]
+6) 
+	- [ ] [[In-the-wild Theory]]
+	- [ ] [[In-the-wild Methods]]
+7) 
+8) 
 9) 
 	- [ ] [[Values and Etchis in Design 1]]
 

@@ -20,3 +20,10 @@ A few examples are:
 4) [Squeezy Green Balls](https://dl.acm.org/doi/10.1145/2967934.2968102)
 
 All of these examples give back to the user a thought-provoking experience.
+
+<br>
+<br>
+
+###### Essential Reading
+
+![[HelenSharpJenni_2019_Chapter7Interfaces_InteractionDesignBeyo.pdf]]
