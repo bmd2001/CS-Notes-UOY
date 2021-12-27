@@ -11,6 +11,8 @@
     "CSCW",
     "Pthreads",
     "FCFS",
-    "SJF"
+    "SJF",
+    "receive(M",
+    "send(M"
   ]
 }

@@ -81,6 +81,8 @@ There are two models of #IPC:
 
 ![[IPC.png|600]]
 
+<br>
+
 ### Shared Memory
 
 As the name says, in this model, different #processes share a part of their #memory in a fixed #memory #address. To do so, the #processes involved have to request this need to the #OS (since, by default, sharing #memory is not possible), so they can then handle the communication between themselves. Usually, #processes that have this #IPC follow a #producer-consumer metaphor, where a #process produces information that is consumed by another #process.
@@ -99,3 +101,11 @@ To do so, the #Messaging functionality must enable at least these two key functi
 2) receive(message)
 
 To be able to send and receive #messages, the 2 #processes have to be linked.
+There are two ways to implement this:
+
+1) #Direct #Communication (send(P, message), receive(Q, message))
+2) #Indirect #Communication (the message is sent to a mailbox that is linked to all processes (they can be more than two, and if they are, there can also be problems): send(M, message), receive(M, message))
+
+To be able to implement the 2 #primitive #functions, and it can be done in a #synchronous or #asynchronous way.
+
+To link two #processes, we can use #pipes that can be #ordinary (used between parent and child) or #named(not necesessarily used in a "family" of #processes).

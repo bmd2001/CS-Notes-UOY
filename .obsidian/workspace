@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SYS2/Week 4/Processes Scheduling and IPC.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -90,8 +90,8 @@
   "lastOpenFiles": [
     "SYS2/Week 4/Processes Scheduling and IPC.md",
     "Uni Work Checklist.md",
-    "README.md",
     "SYS2/Week 6/Synchronization.md",
+    "README.md",
     "SYS2/Images/FCFS.gif",
     "SYS2/Images/SJF.gif",
     "SYS2/Images/User and Kernel Threads.png",
