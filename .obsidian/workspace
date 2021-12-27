@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYS2/Week 4/Processes Scheduling and IPC.md",
+            "file": "SYS2/Week 4/Process Scheduling and IPC.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS2/Week 4/Processes Scheduling and IPC.md",
+                "file": "SYS2/Week 4/Process Scheduling and IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
-    "SYS2/Week 4/Processes Scheduling and IPC.md",
+    "SYS2/Week 4/Process Scheduling and IPC.md",
     "Uni Work Checklist.md",
     "SYS2/Week 6/Synchronization.md",
     "README.md",

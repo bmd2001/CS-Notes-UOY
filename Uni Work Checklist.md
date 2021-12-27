@@ -83,7 +83,7 @@ SYS2:
 3) 
 	- [ ] [[Processes and Threads]] 
 4) 
-	- [ ] [[Processes Scheduling and IPC]]
+	- [ ] [[Process Scheduling and IPC]]
 5) 
 6) Nothing
 7) 
