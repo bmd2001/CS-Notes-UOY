@@ -6,12 +6,11 @@
       {
         "id": "f031a48e01840f1d",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Uni Work Checklist.md",
-            "mode": "source"
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -68,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni Work Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,6 +75,22 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "e8dd1b69971bf651",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "68c2641a406c944c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -88,9 +102,9 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
-    "Uni Work Checklist.md",
     "HCI2/Week 6/In-the-wild Methods.md",
     "HCI2/Week 6/In-the-wild Theory.md",
+    "Uni Work Checklist.md",
     "HCI2/Images/AT Example.png",
     "HCI2/Images/Simple AT.png",
     "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
