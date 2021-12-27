@@ -45,6 +45,7 @@ HCI2:
 	- [ ] [[CSCW]]
 5) 
 	- [ ] [[The pervasiveness of technology]]
+	- [ ] [[Ubiquitous Computing]]
 9) 
 	- [ ] [[Values and Etchis in Design 1]]
 
