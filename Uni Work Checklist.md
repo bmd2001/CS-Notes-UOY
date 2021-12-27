@@ -43,6 +43,8 @@ HCI2:
 	- [ ] [[Attention]]
 4) 
 	- [ ] [[CSCW]]
+5) 
+	- [ ] [[The pervasiveness of technology]]
 9) 
 	- [ ] [[Values and Etchis in Design 1]]
 

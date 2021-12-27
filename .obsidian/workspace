@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYS2/Week 4/Process Scheduling and IPC.md",
-            "mode": "preview"
+            "file": "HCI2/Week 5/The pervasiveness of technology.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS2/Week 4/Process Scheduling and IPC.md",
+                "file": "HCI2/Week 5/The pervasiveness of technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f031a48e01840f1d",
   "lastOpenFiles": [
-    "SYS2/Week 4/Process Scheduling and IPC.md",
+    "HCI2/Week 5/The pervasiveness of technology.md",
     "Uni Work Checklist.md",
+    "HCI2/Week 4/CSCW.md",
+    "SYS2/Week 9/I-O, Storage and File Management.md",
+    "SYS2/Week 8/Memory Management.md",
+    "SYS2/Week 7/Deadlocks.md",
     "SYS2/Week 6/Synchronization.md",
+    "SYS2/Week 4/Process Scheduling and IPC.md",
     "README.md",
-    "SYS2/Images/FCFS.gif",
-    "SYS2/Images/SJF.gif",
-    "SYS2/Images/User and Kernel Threads.png",
-    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
-    "SYS2/Week 3/Processes and Threads.md",
-    "SYS2/Week 2/Introduction To Operating system services.md"
+    "SYS2/Images/FCFS.gif"
   ]
 }
