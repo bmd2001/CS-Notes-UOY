@@ -77,3 +77,88 @@ void main(){
 4) #Bounded #Waiting 
 5) No assumptions about processes' speeds
 6) A #process stays in its #critical section for a limited amount of time
+
+<br>
+
+## Concurrency support
+
+To support #concurrency, a list of solutions has been developed:
+
+1) [[Synchronization#Semaphores|Semaphores]]
+2) [[Synchronization#Binary semaphore|Binary Semaphores]]
+3) [[Synchronization#Requirements for Mutual Exclusion|MUTEX]]
+4) 
+
+### Semaphores
+
+A #semaphore is actually just an integer value that gets initialized and, based on if it got decremented or augmented, the #process gets, respectively, blocked or unblocked.
+
+![[Semaphore.png|500]]
+
+```c
+struct semaphore{ 
+	int count;
+	queueType queue;
+	};
+
+void semWait(semaphore s){
+	s.count −−;
+	if(s.count < 0){
+		/* place this process in s.queue */;
+		/* block this process */;
+	} 
+}
+
+void semSignal(semaphore s){
+	s.count ++; 
+	if(s.count <= 0){
+		/* remove a process P from s.queue */;
+		/* place process P on ready list */;
+	} 
+}
+```
+
+### Binary semaphores
+
+#Binary #semaphores are the same as normal #semaphores, but it's initialized to be 0 or 1 specifically.
+
+```c
+struct binary_semaphore{
+	enum{zero, one} value;
+	queueType queue;
+};
+
+void semWaitB(binary_semaphore s){
+	if(s.value == one){
+		s.value = zero;
+	} 
+	else{
+		/* place this process in s.queue * /;
+		/* block this process */;
+	} 
+}
+
+void semSignalB(semaphore s){
+	if(s.queue is empty()){
+		s.value = one;
+	}
+	else{
+		/* remove a process P from s.queue */;
+		/* place process P on ready list */
+		; 
+	} 
+}
+```
+
+### Monitor and conditional variables
+
+A #monitor is an abstract #data type that has multiple functions to operate on the data it receives. All the variables and functions in this data structure can only be accessed locally and only by one #process at a time. To know which process should execute, all the #processes using the #monitor are allocated in a #queue associated to a #conditional #variable. Other #processes that haven't entered the #monitor yet are in left in the #entry #queue.
+
+The #conditional #variable is a special data type that can perform two methods:
+
+1) cwait(c)
+2) csignal(c)
+
+When a #process calls cwait(c), it means that it can be suspended and added to the c #queue, until another #process call csignal(c), so when it finishes its execution or exits the #monitor.
+
+![[Monitors.png|500]]
