@@ -18,6 +18,7 @@ do {
 		remainder section
 } while(true);
 ```
+<br>
 
 ### Solutions Requirements for Critical Sections Problems
 
@@ -87,7 +88,9 @@ To support #concurrency, a list of solutions has been developed:
 1) [[Synchronization#Semaphores|Semaphores]]
 2) [[Synchronization#Binary semaphore|Binary Semaphores]]
 3) [[Synchronization#Requirements for Mutual Exclusion|MUTEX]]
-4) 
+4) [[Synchronization#Monitors and conditional variables|Monitors and conditional variables]]
+
+<br>
 
 ### Semaphores
 
@@ -117,6 +120,7 @@ void semSignal(semaphore s){
 	} 
 }
 ```
+---
 
 ### Binary semaphores
 
@@ -150,7 +154,9 @@ void semSignalB(semaphore s){
 }
 ```
 
-### Monitor and conditional variables
+---
+
+### Monitors and conditional variables
 
 A #monitor is an abstract #data type that has multiple functions to operate on the data it receives. All the variables and functions in this data structure can only be accessed locally and only by one #process at a time. To know which process should execute, all the #processes using the #monitor are allocated in a #queue associated to a #conditional #variable. Other #processes that haven't entered the #monitor yet are in left in the #entry #queue.
 
@@ -162,3 +168,5 @@ The #conditional #variable is a special data type that can perform two methods:
 When a #process calls cwait(c), it means that it can be suspended and added to the c #queue, until another #process call csignal(c), so when it finishes its execution or exits the #monitor.
 
 ![[Monitors.png|500]]
+
+---
