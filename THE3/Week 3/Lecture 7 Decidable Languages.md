@@ -1,6 +1,6 @@
 # Decidable Languages
 
-A #Turing #Machine $\mathrm{M}$ **decides** a #language $\mathrm{L}$ if this is accepted by $\mathrm{M}$ that on every input it eventually reaches an #halting state.
+A #Turing #Machine $\mathrm{M}$ **decides** a #language $\mathrm{L}$ if this is accepted by $\mathrm{M}$ that on every input it eventually reaches an #halting state. ^24c0d8
 
 ```ad-abstract
 title: Theorem 6

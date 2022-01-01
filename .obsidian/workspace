@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THE3/Week 3/Lecture 8 Towards Unsolvable Problems.md",
+            "file": "THE3/Week 4/Lecture 9 Undecidable Languages.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE3/Week 3/Lecture 8 Towards Unsolvable Problems.md",
+                "file": "THE3/Week 4/Lecture 9 Undecidable Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "7431d829e0d0973d",
   "lastOpenFiles": [
+    "THE3/Week 4/Lecture 9 Undecidable Languages.md",
+    "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
+    "THE3/Week 3/Lecture 7 Decidable Languages.md",
     "THE3/Week 3/Lecture 8 Towards Unsolvable Problems.md",
     "THE3/Images/Encryption.mp4",
     "THE3/Images/Encription.mp4",
-    "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
     "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
     "THE3/Week 2/Lecture 4 Turing Machines.md",
-    "THE3/Week 3/Lecture 7 Decidable Languages.md",
     "THE3/Theorems.md",
-    "Uni Work Checklist.md",
-    "INT1/Week 5/Adversarial Search.md"
+    "Uni Work Checklist.md"
   ]
 }
