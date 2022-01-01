@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
+            "file": "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
+                "file": "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "76419f04f7871000",
   "lastOpenFiles": [
-    "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
+    "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
     "THE3/Theorems.md",
+    "Uni Work Checklist.md",
+    "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
     "THE3/Week 2/Lecture 4 Turing Machines.md",
     "README.md",
     "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
     "HCI2/Week 3/Attention.md",
     "HCI2/Week 3/Memory.md",
-    "HCI2/Week 3/The Human Factor.pdf",
-    "HCI2/Week 2/HCI2 Intro.md",
-    "HCI2/Week 5/Ubiquitous Computing.md"
+    "HCI2/Week 3/The Human Factor.pdf"
   ]
 }
