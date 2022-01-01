@@ -9,5 +9,5 @@ There are many particular encodings, the following one is just an example
 
 Encryption Example:
 
-![[Encription.mp4]]
+![[Encryption.mp4]]
 
