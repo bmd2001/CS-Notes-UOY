@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f713341d9e608928",
+        "id": "76419f04f7871000",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYS2/Week 6/Synchronization.md",
-            "mode": "source"
+            "file": "Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYS2/Week 6/Synchronization.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,25 +94,34 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "7e7020e4c60f999b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f713341d9e608928",
+  "active": "76419f04f7871000",
   "lastOpenFiles": [
-    "SYS2/Week 6/Synchronization.md",
+    "Untitled.md",
+    "THE3/Week 3/Lecture 5 Variations on Turing Machines.md",
+    "THE3/Week 2/Lecture 4 Turing Machines.md",
     "README.md",
-    "SYS2/Images/Semaphore.png",
-    "SYS2/Week 7/Deadlocks.md",
-    "SYS2/Week 9/I-O, Storage and File Management.md",
-    "HCI2/Week 6/In-the-wild Methods.md",
-    "HCI2/Week 6/In-the-wild Theory.md",
-    "HCI2/Week 5/Ubiquitous Computing.md",
-    "Uni Work Checklist.md",
-    "HCI2/Images/AT Example.png"
+    "HCI2/Week 3/Cognitive Modelling and User Capabilities.md",
+    "HCI2/Week 3/Attention.md",
+    "HCI2/Week 3/Memory.md",
+    "HCI2/Week 3/The Human Factor.pdf",
+    "HCI2/Week 2/HCI2 Intro.md",
+    "HCI2/Week 5/Ubiquitous Computing.md"
   ]
 }

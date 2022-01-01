@@ -20,6 +20,7 @@
     "csignal",
     "cwait",
     "csignal",
-    "Multitape"
+    "Multitape",
+    "semidecidable"
   ]
 }
