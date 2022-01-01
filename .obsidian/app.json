@@ -19,6 +19,7 @@
     "cwait",
     "csignal",
     "cwait",
-    "csignal"
+    "csignal",
+    "Multitape"
   ]
 }
