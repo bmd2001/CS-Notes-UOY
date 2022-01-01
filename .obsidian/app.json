@@ -21,6 +21,7 @@
     "cwait",
     "csignal",
     "Multitape",
-    "semidecidable"
+    "semidecidable",
+    "Linear-Bounded"
   ]
 }

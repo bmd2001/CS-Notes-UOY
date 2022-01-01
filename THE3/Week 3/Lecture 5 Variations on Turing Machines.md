@@ -17,6 +17,8 @@ collapse: closed
 *For every Non-Deterministic Turing Machine $N$ there exist a Deterministic Turing Machine $D$ such that* $\mathrm{L}(N) = \mathrm{L}(D)$
 ```
 
+^318921
+
 ---
 
 ## Linear-Bounded Automaton
@@ -32,6 +34,8 @@ title: Theorem 2
 collapse: closed
 *A language L is is accepted by some linear-bounded automaton if and only if L is context-sensitive.*
 ```
+
+^6c59be
 
 ---
 
@@ -50,6 +54,8 @@ title: Theorem 3
 collapse: closed
 *For every multitape Turing machine N there exists a Turing machine M such that <br> $\mathrm{L}$(N) = $\mathrm{L}$(M).*
 ```
+
+^f4f825
 
 ---
 
