@@ -9,4 +9,3 @@ There are two possible #strategies that we could take:
 2) #MinMax: try to minimise the opponent's #payoff. In the example above, it would be the same move as before. In a [[Intro to Game Theory#^c3d12b|zero-sum game]], this means that were minimising our **loss**.
 
 These two #strategies will be used in our [[MinMax Algorithm|MinMax Search Algorithm]] that can help us parse a #tree to find the best #move we can take.
-[[Uni Work Checklist|]]

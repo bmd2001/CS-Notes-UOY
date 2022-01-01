@@ -14,4 +14,3 @@ to do so, different #games are divided in two categories:
 
 #Utility is written as a #tuple like this: (P1, P2). In a #Zero-Sum #game one player's value is the negative of the other, in a #General-Sum #game, the P2 value can be omitted.
 
-[[Uni Work Checklist|]]

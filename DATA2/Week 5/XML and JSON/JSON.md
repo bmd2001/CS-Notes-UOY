@@ -16,5 +16,3 @@ It's simple to write, takes less memory than #xml and it can be used with most m
 #Objects are written like #dictionaries in #python.
 #Objects can also be #nested.
 #Arrays instead are like #lists in #python.
-
-[[Uni Work Checklist|]]

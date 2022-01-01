@@ -13,4 +13,3 @@ There are four types of #NoSQL:
 3) [[Key-Value DB]]
 4) [[Graph DB]]
 
-[[Uni Work Checklist|]]
