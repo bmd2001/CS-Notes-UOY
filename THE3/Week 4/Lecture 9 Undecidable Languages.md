@@ -21,16 +21,24 @@ title: Theorem 10
 collapse: closed
 NSA *is not [[Lecture 6 Semidecidable Languages and Language Enumeration#^f34ccb|semidecidable]]*
 ```
+
+^0e46cf
+
 ```ad-abstract
 title: Theorem 11
 collapse: closed
 SA *is not [[Lecture 7 Decidable Languages#^24c0d8|decidable]]*
 ```
+
+^18bea8
+
 ```ad-abstract
 title: Theorem 12
 collapse: closed
 SA *is [[Lecture 6 Semidecidable Languages and Language Enumeration#^f34ccb|semidecidable]]*
 ```
+
+^cd5a1e
 
 ---
 

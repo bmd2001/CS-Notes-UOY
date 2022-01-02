@@ -9,3 +9,8 @@
 7)  [[Lecture 7 Decidable Languages#^67b35a|Non crashing Turing Machines]]
 8)  [[Lecture 7 Decidable Languages#^91cc43|Complements of decidable languages are decidable]]
 9)  [[Lecture 7 Decidable Languages#^e900df|If language and complement are semidecidable, it's also decidable]]
+10)  [[Lecture 9 Undecidable Languages#^0e46cf|NSA]]
+11)  [[Lecture 9 Undecidable Languages#^18bea8|SA 1]]
+12)  [[Lecture 9 Undecidable Languages#^cd5a1e|SA 2]]
+13)  [[Lecture 10 “Island of Computability”#^fcc814|Powerset of infinite set]]
+14)  [[Lecture 10 “Island of Computability”#^44c255| Sigma and non semidecidable languages]]

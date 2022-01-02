@@ -23,6 +23,7 @@
     "Multitape",
     "semidecidable",
     "Linear-Bounded",
-    "Semidecidable"
+    "Semidecidable",
+    "Powerset"
   ]
 }
