@@ -17,3 +17,5 @@
 15)  [[Lecture 11 Computable Functions#^b5343f|Languages and charateristic functions]]
 16)  [[Lecture 11 Computable Functions#^c1e886|Graphs and semidecidable languages]]
 17)  [[Lecture 11 Computable Functions#^440173|Graphs and decidable languages]]
+18)  [[Lecture 12 Decision Problems#^51790f|Decidable Problems and their Complement]]
+19)  [[Lecture 12 Decision Problems#^174b95|Self-Accepting Problem]]

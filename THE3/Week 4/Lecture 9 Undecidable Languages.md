@@ -6,6 +6,8 @@ $$
 \mathrm{SA}=\{\mathrm{e}(M) \mid M \text { is a TM and e }(M) \in \mathrm{L}(M)\}
 $$
 
+^5b1f55
+
 A #non-self-accepting language, instead, consists of all the encodings that are not accepted by their #TM and all the string with 0 and 1 that are not encodings of a #TM.
 This, instead, is written like this:
 
