@@ -14,3 +14,6 @@
 12)  [[Lecture 9 Undecidable Languages#^cd5a1e|SA 2]]
 13)  [[Lecture 10 “Island of Computability”#^fcc814|Powerset of infinite set]]
 14)  [[Lecture 10 “Island of Computability”#^44c255| Sigma and non semidecidable languages]]
+15)  [[Lecture 11 Computable Functions#^b5343f|Languages and charateristic functions]]
+16)  [[Lecture 11 Computable Functions#^c1e886|Graphs and semidecidable languages]]
+17)  [[Lecture 11 Computable Functions#^440173|Graphs and decidable languages]]
