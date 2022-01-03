@@ -109,3 +109,22 @@ SYS2:
 
 THE3:
 
+2) 
+	- [ ] [[Lecture 4 Turing Machines]]
+3) 
+	- [ ] [[Lecture 5 Variations on Turing Machines]]
+	- [ ] [[Lecture 6 Semidecidable Languages and Language Enumeration]]
+	- [ ] [[Lecture 7 Decidable Languages]]
+	- [ ] [[Lecture 8 Towards Unsolvable Problems]]
+4) 
+	- [ ] [[Lecture 9 Undecidable Languages]]
+	- [ ] [[Lecture 10 “Island of Computability”]]
+5) 
+	- [ ] [[Lecture 11 Computable Functions]]
+	- [ ] [[Lecture 12 Decision Problems]]
+	- [ ] [[Lecture 13 Undecidable Problems]]
+7) 
+	- [ ] [[Lecture 16 Time and space complexity]]
+
+[[Theorems]]
+

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7b2455c6b3816748",
+        "id": "0742ea10a16ec183",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Uni Work Checklist.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -111,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b2455c6b3816748",
+  "active": "0742ea10a16ec183",
   "lastOpenFiles": [
     "Uni Work Checklist.md",
-    "HCI2/Week 7/Conceptualizing UX.md",
+    "THE3/Week 5/Lecture 11 Computable Functions.md",
     "THE3/Theorems.md",
+    "THE3/Week 4/Lecture 10 “Island of Computability”.md",
+    "THE3/Week 4/Lecture 9 Undecidable Languages.md",
+    "THE3/Week 3/Lecture 6 Semidecidable Languages and Language Enumeration.md",
+    "HCI2/Week 7/Conceptualizing UX.md",
     "THE3/Week 7/Lecture 16 Time and space complexity.md",
     "THE3/Week 5/Lecture 12 Decision Problems.md",
-    "THE3/Week 5/Lecture 13 Undecidable Problems.md",
-    "THE3/Week 4/Lecture 9 Undecidable Languages.md",
-    "THE3/Week 2/Lecture 4 Turing Machines.md",
-    "THE3/Week 5/Lecture 11 Computable Functions.md",
-    "THE3/Week 3/Lecture 5 Variations on Turing Machines.md"
+    "THE3/Week 5/Lecture 13 Undecidable Problems.md"
   ]
 }

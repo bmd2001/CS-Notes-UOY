@@ -48,4 +48,4 @@ SA *is [[Lecture 6 Semidecidable Languages and Language Enumeration#^f34ccb|semi
 
 A #Universal #TM takes as an input a #TM and a string $\mathrm{w}$ and it will accept them if the #TM accepts the string, it won't if the #TM doesn't accept the string.
 
-We call this an #interpreter
+We call this an #interpreter.
