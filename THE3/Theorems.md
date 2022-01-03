@@ -19,3 +19,6 @@
 17)  [[Lecture 11 Computable Functions#^440173|Graphs and decidable languages]]
 18)  [[Lecture 12 Decision Problems#^51790f|Decidable Problems and their Complement]]
 19)  [[Lecture 12 Decision Problems#^174b95|Self-Accepting Problem]]
+20)  [[Lecture 16 Time and space complexity#^30677e|Multiple tapes versus one tape]]
+21)  [[Lecture 16 Time and space complexity#^e92ff3|There are arbitrarily complex languages]]
+22)  [[Lecture 16 Time and space complexity#^d0abe5|There need not exist a fastest TM]]
