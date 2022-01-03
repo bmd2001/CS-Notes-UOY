@@ -50,8 +50,9 @@ HCI2:
 	- [ ] [[In-the-wild Theory]]
 	- [ ] [[In-the-wild Methods]]
 7) 
-8) 
-9) 
+	- [ ] [[Conceptualizing UX]]
+1) 
+2) 
 	- [ ] [[Values and Etchis in Design 1]]
 
 </br>
