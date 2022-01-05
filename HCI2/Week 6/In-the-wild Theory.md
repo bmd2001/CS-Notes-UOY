@@ -46,7 +46,7 @@ It's the opposite of [[Cognitive Modelling and User Capabilities#^1d741f|GOMS]].
 
 Differently from a #cognitive approach, #Situated #Action focuses on understanding the #cause of a particular action in a particular #setting.
 
-Our actions are #situated: we try to do our best at every# interaction, even if it doesn't follow a plan. We afterwards explain our #actions as they were based on plans, so plans are just ways to communicate our experience to others.
+Our actions are #situated: we try to do our best at every #interaction, even if it doesn't follow a plan. We afterwards explain our #actions as they were based on plans, so plans are just ways to communicate our experience to others.
 
 For this reason, #communication and #coordination are two key #concepts in #Situated #Action.
 
